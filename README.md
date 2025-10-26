@@ -114,9 +114,3 @@ The script will:
 **Onyekachi Ejimofor**  
 _Data Extraction • Web Automation • Data Cleaning Specialist_  
 
-💼 [LinkedIn](www.linkedin.com/in/onyekachiejimofor)  
-🌐 [Portfolio Website](https://github.com/Onyeksman)
-
----
-
-> 💡 *“Clean code is not just what you write — it’s how confidently others can build on it.”*
